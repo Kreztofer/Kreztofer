@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/004/113/688/original/programmer-concept-for-web-banner-developer-works-at-laptop-writes-code-on-computer-man-creates-programs-modern-people-scene-illustration-in-flat-cartoon-design-with-person-characters-vector.jpg)
 <h1 align="center">Hi 👋, I'm Dominic</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate web and mobile frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kreztofer&label=Profile%20views&color=0e75b6&style=flat" alt="kreztofer" /> </p>
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **social media apps**
 
-- 🌱 I’m currently learning **Angular, React Native**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **more projects and jobs**
 
 - 👨‍💻 All of my projects are available at [www.dominicua.com](www.dominicua.com)
 
-- 💬 Ask me about **Typescript, React**
+- 💬 Ask me about **Typescript, React, React Native**
 
 - 📫 How to reach me **dominique.amalu@gmail.com**
 
