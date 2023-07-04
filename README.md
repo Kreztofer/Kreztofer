@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **social media apps**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **dotnet core**
 
 - 👯 I’m looking to collaborate on **more projects and jobs**
 
 - 👨‍💻 All of my projects are available at [www.dominicua.com](www.dominicua.com)
 
-- 💬 Ask me about **Typescript, React, React Native**
+- 💬 Ask me about **Typescript, React, React Native, Angular Js**
 
 - 📫 How to reach me **dominique.amalu@gmail.com**
 
