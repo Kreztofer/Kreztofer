@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **more projects and jobs**
 
-- 👨‍💻 All of my projects are available at [www.dominicua.com](www.dominicua.com)
+- 👨‍💻 All of my projects are available at [www.dominicua.com](https://dominicua.com/)
 
 - 💬 Ask me about **Typescript, React, React Native, Angular Js**
 
